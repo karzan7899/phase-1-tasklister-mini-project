@@ -35,3 +35,15 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+li {
+  font-size: 20px;
+}
+
+li button {
+  width: 25px;
+  height: 20px;
+  font-size: 13px;
+  font-weight: bold;
+  margin-left: 10px;
+}
